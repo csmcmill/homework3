@@ -56,7 +56,6 @@ table{
   margin-right: auto;
   margin-left: auto;
   border-radius: 15px;
-  border-collapse: separate;
 }
 
 .colhead{
@@ -69,7 +68,7 @@ table{
 }
 
 .rowhead{
-  border-top: 2px solid #000000;
+  border: 2px solid #000000;
 }
 
 td{
@@ -86,7 +85,7 @@ tr:nth-child(odd){
 }
 
 tr:hover{
-  background-color: #7e0820;
+  background-color: 126,8,32;
   opacity: .5;
 }
 
