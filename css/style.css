@@ -65,7 +65,7 @@ table{
   background-color: #7e0820;
   color: #FFFFFF;
   text-align: center;
-  text-transform: capitalize;
+  text-transform: uppercase;
 }
 
 .rowhead{
