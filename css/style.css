@@ -57,6 +57,7 @@ table{
   margin-left: auto;
   border-radius: 15px;
   border-collapse:separate;
+  border-spacing: 0;
 }
 
 .colhead{
