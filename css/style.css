@@ -87,7 +87,7 @@ tr:nth-child(odd){
 }
 
 tr:hover{
-  background-color: (126,8,32 .5);
+  background-color: (126,8,32, .5);
 }
 
 thead tr:first-child th:first-child {
